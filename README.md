@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# The Dojo - A Project Management Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Web App has the ability to change the level of productivity as it helps teams to create, assign and manage tasks and projects amongst the colleagues. Using this, a team can make sure that the project is delivered on time.
 
-## Available Scripts
+## Live Demo :globe_with_meridians:
 
-In the project directory, you can run:
+[The DojoApp](https://project-management-site-7cfb5.web.app/login)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Acknowledgements 👍🏻
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+ - [Build Websites with React & Firebase](https://www.udemy.com/course/build-web-apps-with-react-firebase/)
 
-### `npm test`
+## Tech Stack 💻
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Client:** [React.js](https://reactjs.org/)
 
-### `npm run build`
+**Server:** [Firebase](https://firebase.google.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features ✨
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Signup, Login/Logout Users 📝
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77622315/196929475-ed34e9f8-4594-4259-9cc8-d2d1b7e8cc36.png" height=420 />
+</p>
 
-### `npm run eject`
+- Create, assign projects and tasks ✅
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77622315/196927513-ea992fcb-bb80-4abf-8bee-fe8df967aa36.png" height=420 />
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Displays online users (Green dot in the right pane beside the users name) 🟢
+- Presents the overview of assigned tasks and projects in Dashboard 👀
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/77622315/196932242-67c2edf0-91fa-4a91-ae71-6041f936dc53.png" height=420 />
+</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Users can collaborate through Project Comments Section 🤝🏻 
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/77622315/196933154-bd0cfab0-cd23-49bc-a5b4-6152f424df43.png" height=420 />
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Installation ⚙️
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Install with npm
+```sh
+npm install
+npm install firebase
+```
 
-## Learn More
+## Where to find me? 👦🏻
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Linkedin](https://www.linkedin.com/in/utkarshambetkar/)
+[Twitter](https://twitter.com/utkarshambetkar)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
